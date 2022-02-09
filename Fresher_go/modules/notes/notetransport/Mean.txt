@@ -1,0 +1,1 @@
+tầng này dùng để tiếp nhận dữ liệu cũng như trả về dữ liệu 
