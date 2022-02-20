@@ -1,0 +1,3 @@
+tầng này là tầng logic :
+- ở đây chỉ nên nhận dữ liệu cần thiết thôi
+- theo cấu trúc thì thường được viết trước tầng DB

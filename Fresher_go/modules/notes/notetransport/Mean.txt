@@ -1,0 +1,1 @@
+tầng này dùng để tiếp nhận dữ liệu từ request sau đó kiểm tra dữ liệu r trả về giao diện
